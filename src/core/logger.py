@@ -1,3 +1,5 @@
+# https://stackoverflow.com/questions/6386698/how-to-write-to-a-file-using-the-logging-python-module
+
 import logging
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
